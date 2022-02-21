@@ -1,4 +1,5 @@
 # V2-Injector
+## - Make Sure you read how to use and the rest of the information about this.
 
 # how to use ?
 - run v2 injector
@@ -21,3 +22,11 @@
 
 
 # supports all windows versions
+
+# little insight on the release
+i thought not many people release working injectors these days that can actually inject past EAC and other anti-cheats i want to be able to provide a working injector for upcoming cheat developers or just individual people who dont understand code and want to cheat on a anti-cheat protected game.
+
+## why not release injector source and driver source?
+because i dont agree with the fact of many people skidding on developers work in this category ( fair enough for cheats ) but injectors and drivers are more important to keep private although i will sell this source code for a reasonable price.
+
+

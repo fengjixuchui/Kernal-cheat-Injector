@@ -30,3 +30,8 @@ i thought not many people release working injectors these days that can actually
 because i dont agree with the fact of many people skidding on developers work in this category ( fair enough for cheats ) but injectors and drivers are more important to keep private although i will sell this source code for a reasonable price.
 
 
+# extra features
+- rwx injection methods 
+- emulate anticheats ( eac + be ) - must be windows version 1909 - 20h2 )
+- dump anti-cheat drivers 
+- dump game offsets + signatures ( Engines supported Ue4, Ue5 , Unity ) 

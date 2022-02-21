@@ -1,5 +1,6 @@
 # V2-Injector
 ## - Make Sure you read how to use and the rest of the information about this.
+# selling rwx injector source code contact me via discord: skengdoo#9524  
 
 # how to use ?
 - run v2 injector
@@ -34,4 +35,5 @@ because i dont agree with the fact of many people skidding on developers work in
 - rwx injection methods 
 - emulate anticheats ( eac + be ) - must be windows version 1909 - 20h2 )
 - dump anti-cheat drivers 
-- dump game offsets + signatures ( Engines supported Ue4, Ue5 , Unity ) 
+- dump game offsets + signatures ( Engines supported Ue4, Ue5 , Unity )
+

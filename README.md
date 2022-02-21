@@ -1,2 +1,11 @@
 # V2-Injector
-rwx injector version 2 works for eac | battleye | vangaurd |  faceit | Ricoche | working for all games 
+
+## working anti-cheats that injector supports
+* Vanguard
+* Easy Anti Cheat
+* BattlEye Anti Cheat
+* FACEIT 
+* Valve Anti-Cheat
+* PunkBuster
+* NProtect GameGuard
+* Ricoche

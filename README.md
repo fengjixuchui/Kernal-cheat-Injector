@@ -1,5 +1,6 @@
 # V2-Injector
-## - Make Sure you read how to use and the rest of the information about this.
+# be kind drop a star
+## - Make Sure you read how to use and the rest of the information about this. 
 # selling rwx injector source code contact me via discord: skengdoo#9524  
 
 # how to use ?

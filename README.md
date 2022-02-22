@@ -1,8 +1,11 @@
 # V2-Injector
 ## - Make Sure you read how to use and the rest of the information about this.  
 
+
+[img] https://imgur.com/RpuWYQ8 [/img]
+
 # how to use ?
-- run v2 injector
+- run v2 injector ( wait around 15-20 seconds if black screen shows this is due to the software trying to find vulnrable modules to inject to on your pc )
 - make sure your dll is in the same folder as injector
 - run injector before opening game ( if you face vuln error disable antivirus and firewall )
 - rename your dll to rwx1.dll

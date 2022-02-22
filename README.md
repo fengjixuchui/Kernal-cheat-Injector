@@ -12,6 +12,13 @@
 - input the window class name of the process you are wanting to inject into 
 - rwx will exploit the games imports and then proceed  to inject into the games window hook
 
+## how to find my games window class ?
+- if you have visual studio downloaded make sure you have c++ installed
+- open any blank project in visual studio
+- head over to tools tab and look for spy++
+- once spy++ is open use the find window tool in the app
+- simply drag the spytool over your game window ( it has to be in windowed mode to find the window class )
+
 # how status works 🔵 = undetected | 🔴 = detected
 ## working anti-cheats that injector supports
 * Vanguard 🔵

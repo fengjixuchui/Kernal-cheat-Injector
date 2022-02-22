@@ -4,6 +4,8 @@
 
 <img src="https://imgur.com/RpuWYQ8">
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="RpuWYQ8"><a href="https://imgur.com/RpuWYQ8">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 # how to use ?
 - run v2 injector ( wait around 15-20 seconds if black screen shows this is due to the software trying to find vulnrable modules to inject to on your pc )
 - make sure your dll is in the same folder as injector

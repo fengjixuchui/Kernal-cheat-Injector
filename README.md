@@ -64,3 +64,4 @@ because i dont agree with the fact of many people skidding on developers work in
 <img src="https://i.ibb.co/BL79h5h/tempsnip.png">
 
 # To buy the source for rwx injector source code contact me via discord: skengdoo#9524 
+or if you are wanting to purchase other sources or want something developed let me know

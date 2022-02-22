@@ -1,7 +1,5 @@
 # V2-Injector
-# be kind drop a star
-## - Make Sure you read how to use and the rest of the information about this. 
-# To purchase rwx injector source code contact me via discord: skengdoo#9524  
+## - Make Sure you read how to use and the rest of the information about this.  
 
 # how to use ?
 - run v2 injector
@@ -55,3 +53,5 @@ because i dont agree with the fact of many people skidding on developers work in
 - open it up look for your process for my example i will use notepad
 - right click on the process that you are wanting to inject into 
 
+
+# To buy the source for rwx injector source code contact me via discord: skengdoo#9524 

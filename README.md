@@ -12,12 +12,8 @@
 - input the window class name of the process you are wanting to inject into 
 - rwx will exploit the games imports and then proceed  to inject into the games window hook
 
-## how to find my games window class ?
-- if you have visual studio downloaded make sure you have c++ installed
-- open any blank project in visual studio
-- head over to tools tab and look for spy++
-- once spy++ is open use the find window tool in the app
-- simply drag the spytool over your game window ( it has to be in windowed mode to find the window class )
+
+
 
 # how status works 🔵 = undetected | 🔴 = detected
 ## working anti-cheats that injector supports
@@ -45,4 +41,17 @@ because i dont agree with the fact of many people skidding on developers work in
 - emulate anticheats ( eac + be ) - must be windows version 1909 - 20h2 )
 - dump anti-cheat drivers 
 - dump game offsets + signatures ( Engines supported Ue4, Ue5 , Unity )
+
+## how to find my games window class ?
+- if you have visual studio downloaded make sure you have c++ installed
+- open any blank project in visual studio
+- head over to tools tab and look for spy++
+- once spy++ is open use the find window tool in the app
+- simply drag the spytool over your game window ( it has to be in windowed mode to find the window class )
+
+
+## find window class method 2
+- head over to https://www.nirsoft.net/utils/winlister.html and download winlister x64 or x32
+- open it up look for your process for my example i will use notepad
+- right click on the process that you are wanting to inject into 
 

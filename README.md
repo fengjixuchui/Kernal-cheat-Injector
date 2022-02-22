@@ -4,6 +4,9 @@
 
 <img src="https://i.ibb.co/Cngyv9n/Capture.png">
 
+<img src="https://i.ibb.co/BL79h5h/tempsnip.png">
+
+
 # how to use ?
 - run v2 injector ( wait around 15-20 seconds if black screen shows this is due to the software trying to find vulnrable modules to inject to on your pc )
 - make sure your dll is in the same folder as injector
@@ -13,7 +16,10 @@
 - input the window class name of the process you are wanting to inject into 
 - rwx will exploit the games imports and then proceed  to inject into the games window hook
 
-
+# some window class names examples
+UnrealWindow - Fortnite, Valorant , Splitgate 
+UnityWndClass - Rust, Escape From Tarkov
+Respawn001 - Apex legends
 
 
 # how status works 🔵 = undetected | 🔴 = detected

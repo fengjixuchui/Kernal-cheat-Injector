@@ -1,4 +1,5 @@
 # V2-Injector
+# active updates + changes to keep this undetected and safe to use !
 ## - Make Sure you read how to use and the rest of the information about this.  
 
 

@@ -45,7 +45,7 @@ because i dont agree with the fact of many people skidding on developers work in
 
 # extra features
 - rwx injection methods 
-- emulate anticheats ( eac + be ) - must be windows version 1909 - 20h2 )
+- emulate anticheats ( eac + be ) - must be windows version 1909 - 20h2 ) emulator doesn't work on Virtual Machines 
 - dump anti-cheat drivers 
 - dump game offsets + signatures ( Engines supported Ue4, Ue5 , Unity )
 

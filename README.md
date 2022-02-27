@@ -34,7 +34,7 @@ Respawn001 - Apex legends
 * Ricoche🔵
 
 
-# supports all windows versions
+# windows versions from 1909 / 20h2
 
 # little insight on the release
 i thought not many people release working injectors these days that can actually inject past EAC and other anti-cheats i want to be able to provide a working injector for upcoming cheat developers or just individual people who dont understand code and want to cheat on a anti-cheat protected game.

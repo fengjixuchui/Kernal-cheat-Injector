@@ -1,4 +1,9 @@
 # V2-Injector
+
+# To Purchase Full Source add my discord skeng#9524
+- payment methods -> ETH | bitcoin | paypal | cashapp 
+- asking price is $250 - $300 - can be negotiated
+- 
 # active updates + changes to keep this undetected and safe to use !
 ## - Make Sure you read how to use and the rest of the information about this.  
 have latest version of python installed !

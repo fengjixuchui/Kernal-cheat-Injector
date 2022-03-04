@@ -12,6 +12,8 @@ have latest version of python installed !
 <img src="https://i.ibb.co/Cngyv9n/Capture.png">
 
 
+# lost ark
+<img src=https://media.discordapp.net/attachments/947722414551351326/949319472324423740/unknown.png>
 
 # how to use ?
 - run v2 injector ( wait around 15-20 seconds if black screen shows this is due to the software trying to find vulnrable modules to inject to on your pc )
@@ -21,6 +23,7 @@ have latest version of python installed !
 - launch your game ( must be on the same drive as injector )
 - input the window class name of the process you are wanting to inject into 
 - rwx will exploit the games imports and then proceed  to inject into the games window hook
+- 
 
 # some window class names examples
 UnrealWindow - Fortnite, Valorant , Splitgate 

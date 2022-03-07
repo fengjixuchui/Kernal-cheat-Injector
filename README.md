@@ -2,7 +2,7 @@
 
 # To Purchase Full Source add my discord skeng#9524
 - payment methods -> ETH | bitcoin | paypal | cashapp | amazon giftcard
-- asking price is  £300 - can be negotiated
+- asking price is  £400 - can be negotiated
 
 
 # active updates + changes to keep this undetected and safe to use !

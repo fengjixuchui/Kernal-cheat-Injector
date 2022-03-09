@@ -1,8 +1,7 @@
 # V2-Injector
 
 # To Purchase Full Source add my discord skeng#9524
-- payment methods i accept -> ETH | bitcoin | cashapp 
-- asking price is  $300 - can be negotiated
+- payment methods i accept -> ETH | bitcoin | cashapp
 
 
 # active updates + changes to keep this undetected and safe to use !

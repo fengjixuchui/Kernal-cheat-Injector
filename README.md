@@ -6,7 +6,7 @@
 
 # active updates + changes to keep this undetected and safe to use !
 ## - Make Sure you read how to use and the rest of the information about this.  
-have latest version of python installed !
+be kind and leave a star
 
 <img src="https://i.ibb.co/Cngyv9n/Capture.png">
 

@@ -1,7 +1,7 @@
 # V2-Injector
 
 # To Purchase Full Source add my discord skeng#9524
-- payment methods i accept -> ETH | bitcoin | cashapp
+- payment methods i accept -> ETH | bitcoin | cashapp | any crypto currency 
 
 
 # active updates + changes to keep this undetected and safe to use !

@@ -1,7 +1,6 @@
 # V2-Injector
 
-# To Purchase Full Source add my discord skeng#9524
-- payment methods i accept -> ETH | bitcoin | cashapp | any crypto currency 
+# Interested in buying the Full Source add my discord skeng#9524
 
 
 ## what are the benifits with buying the source?

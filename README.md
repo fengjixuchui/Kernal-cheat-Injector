@@ -25,8 +25,10 @@ be kind and leave a star
 <img src="https://i.ibb.co/Cngyv9n/Capture.png">
 
 
+
 # lost ark
 <img src=https://media.discordapp.net/attachments/947722414551351326/949319472324423740/unknown.png>
+
 
 # how to use ?
 - run v2 injector ( wait around 15-20 seconds if black screen shows this is due to the software trying to find vulnrable modules to inject to on your pc )
@@ -90,3 +92,18 @@ or if you are wanting to purchase other sources or want something developed let 
 
 
 # added test.dll for testing if injector works :)
+
+
+## what are the benifits with buying the source?
+- the source code is not public version it will be a completely undetected injector + driver along with a custom mapper allowing you to bypass vangaurd + faceit blocking methods 
+
+- UI Mode ( imgui mode of the injector )
+- dump games + the game pdb ( some games dont work )
+- you can use detours + minhook
+- decrypt warzone offsets
+- decrypt rainbow 6
+- dump offsets for all titles + auto sig maker
+- choose what injection format you want x86 / x64
+- IAT dumper
+- Dump EAC + BE Drivers
+- Anti-Cheat Emulator ( allowing you to do anything you want practically )

@@ -1,7 +1,6 @@
 # V2-Injector
 
 # if you want to purchase the Full Source add my discord skeng#9524
-- offer reasonble price
 
 
 # active updates + changes to keep this undetected and safe to use !

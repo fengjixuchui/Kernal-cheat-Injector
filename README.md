@@ -4,21 +4,6 @@
 - offer reasonble price
 
 
-## what are the benifits with buying the source?
-- the source code is not public version it will be a completely undetected injector + driver along with a custom mapper allowing you to bypass vangaurd + faceit blocking methods 
-
-- UI Mode ( imgui mode of the injector )
-- dump games + the game pdb ( some games dont work )
-- you can use detours + minhook
-- decrypt warzone offsets
-- decrypt rainbow 6
-- dump offsets for all titles + auto sig maker
-- choose what injection format you want x86 / x64
-- IAT dumper
-- Dump EAC + BE Drivers
-- Anti-Cheat Emulator ( allowing you to do anything you want practically )
-
-
 # active updates + changes to keep this undetected and safe to use !
 ## - Make Sure you read how to use and the rest of the information about this.  
 be kind and leave a star

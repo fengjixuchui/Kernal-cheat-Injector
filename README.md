@@ -1,6 +1,7 @@
 # V2-Injector
 
-# Interested in buying the Full Source add my discord skeng#9524
+# if you want to purchase the Full Source add my discord skeng#9524
+- offer reasonble price
 
 
 ## what are the benifits with buying the source?

@@ -5,7 +5,7 @@
 # changes
  - 20/04/2022
    - WindowsHook -> added ( how to use ? | enter your dll filepath + the name of the dll | then simply write what you want the output name to be ( example "cheat" )
-   - - what does it do ? | it converts your dll into bytes allowing the injector to read the dll bytes and inject them into your targeted game.
+     what does it do ? | it converts your dll into bytes allowing the injector to read the dll bytes and inject them into your targeted game.
    
 # if you want to purchase the Full Source add my discord skeng#9524
 

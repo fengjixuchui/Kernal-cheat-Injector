@@ -107,5 +107,4 @@ or if you are wanting to purchase other sources or want something developed let 
 - dump offsets for all titles + auto sig maker
 - choose what injection format you want x86 / x64
 - IAT dumper
-- Dump EAC + BE Drivers
 - Anti-Cheat Emulator ( allowing you to do anything you want practically )

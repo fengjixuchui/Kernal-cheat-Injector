@@ -1,5 +1,4 @@
 # V2-Injector
-# injector updated !  | 20/04/2022
 
 
 # changes

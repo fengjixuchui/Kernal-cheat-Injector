@@ -1,4 +1,12 @@
-# V2-Injector
+# Kernel cheat injector
+Inject your internal dlls with this please read before using for your safety as this is public and I am not responsible for any bans you may face.
+
+# updated 18/05/2022
+- changed driver issues 
+  - fixed bsod issues when anticheat loads 
+  - fixed hosting server not streaming bytes
+  - bypass guarded regions
+  - dll size can now be higher than 1mb 
 
 
 # changes

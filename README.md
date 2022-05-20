@@ -98,16 +98,3 @@ or if you are wanting to purchase other sources or want something developed let 
 
 
 # added test.dll for testing if injector works :)
-
-
-## what are the benifits with buying the source?
-- the source code is not public version it will be a completely undetected injector + driver along with a custom mapper allowing you to bypass vangaurd + faceit blocking methods 
-
-- UI Mode ( imgui mode of the injector )
-- dump games + the game pdb ( some games dont work )
-- you can use detours + minhook
-- decrypt warzone offsets
-- dump offsets for all titles + auto sig maker
-- choose what injection format you want x86 / x64
-- IAT dumper
-- Anti-Cheat Emulator ( allowing you to do anything you want practically )

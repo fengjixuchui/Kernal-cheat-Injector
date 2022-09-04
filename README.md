@@ -2,6 +2,12 @@
 Inject your internal dlls with this please read before using for your safety as this is public and I am not responsible for any bans you may face.
 # if you are interested in private source add discord : skeng#9524
 
+
+# updated 
+ - supports x64 / x86
+ - widows 11 support
+ - new injection methods 
+
 # updated 18/05/2022
 - changed driver issues 
   - fixed bsod issues when anticheat loads 

@@ -105,3 +105,5 @@ or if you are wanting to purchase other sources or want something developed let 
 
 
 # added test.dll for testing if injector works :)
+
+# check out other injectors https://github.com/Skengdoo/HyperVisor-Injector

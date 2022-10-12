@@ -3,6 +3,7 @@ Inject your internal dlls with this please read before using for your safety as 
 # if you are interested in private source add discord : skeng#9524
 
 
+
 # updated 
  - supports x64 / x86
  - widows 11 support
@@ -105,3 +106,8 @@ or if you are wanting to purchase other sources or want something developed let 
 
 
 # added test.dll for testing if injector works :)
+
+# check out other injectors https://github.com/Skengdoo/HyperVisor-Injector
+
+
+donate btc : 1QDGQANKZenPYkcjq68N79Rn2XshU9YNhb

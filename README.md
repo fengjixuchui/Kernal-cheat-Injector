@@ -3,28 +3,6 @@ Inject your internal dlls with this please read before using for your safety as 
 # if you are interested in private source add discord : skeng#9524
 
 
-
-# updated 
- - supports x64 / x86
- - widows 11 support
- - new injection methods 
-
-# updated 18/05/2022
-- changed driver issues 
-  - fixed bsod issues when anticheat loads 
-  - fixed hosting server not streaming bytes
-  - bypass guarded regions
-  - dll size can now be higher than 1mb 
-
-
-# changes
- - 20/04/2022
-   - WindowsHook -> added ( how to use ? | enter your dll filepath + the name of the dll | then simply write what you want the output name to be ( example "cheat" )
-     what does it do ? | it converts your dll into bytes allowing the injector to read the dll bytes and inject them into your targeted game.
-   
-# if you want to purchase the Full Source add my discord skeng#9524
-
-
 # active updates + changes to keep this undetected and safe to use !
 ## - Make Sure you read how to use and the rest of the information about this.  
 be kind and leave a star
@@ -41,7 +19,7 @@ be kind and leave a star
 - run v2 injector ( wait around 15-20 seconds if black screen shows this is due to the software trying to find vulnrable modules to inject to on your pc )
 - make sure your dll is in the same folder as injector
 - run injector before opening game ( if you face vuln error disable antivirus and firewall )
-- rename your dll to rwx1.dll
+- rename your dll to test.dll
 - launch your game ( must be on the same drive as injector )
 - input the window class name of the process you are wanting to inject into 
 - rwx will exploit the games imports and then proceed  to inject into the games window hook
@@ -107,7 +85,25 @@ or if you are wanting to purchase other sources or want something developed let 
 
 # added test.dll for testing if injector works :)
 
-# check out other injectors https://github.com/Skengdoo/HyperVisor-Injector
-
 
 donate btc : 1QDGQANKZenPYkcjq68N79Rn2XshU9YNhb
+
+
+
+# updated 
+ - supports x64 / x86
+ - widows 11 support
+ - new injection methods 
+
+# updated 18/05/2022
+- changed driver issues 
+  - fixed bsod issues when anticheat loads 
+  - fixed hosting server not streaming bytes
+  - bypass guarded regions
+  - dll size can now be higher than 1mb 
+
+
+# changes
+ - 20/04/2022
+   - WindowsHook -> added ( how to use ? | enter your dll filepath + the name of the dll | then simply write what you want the output name to be ( example "cheat" )
+     what does it do ? | it converts your dll into bytes allowing the injector to read the dll bytes and inject them into your targeted game.

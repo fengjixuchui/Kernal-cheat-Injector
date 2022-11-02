@@ -52,18 +52,23 @@ i thought not many people release working injectors these days that can actually
 because i dont agree with the fact of many people skidding on developers work in this category ( fair enough for cheats ) but injectors and drivers are more important to keep private although i will sell this source code for a reasonable price.
 
 
-# extra features ( with the source code )
-- the source code is not public version it will be a completely undetected injector + driver along with a custom mapper allowing you to bypass vangaurd + faceit blocking methods
-- rwx injection methods 
-- dump game offsets + signatures ( Engines supported Ue4, Ue5 , Unity )
+##  WHAT ARE THE BENIFITS THAT COME WITH BUYING PRIVATE SOURCE CODE?
+- the source code is not public version it will be a completely undetected injector + driver along with a custom mapper allowing you to bypass vangaurd + faceit blocking methods 
+
 - UI Mode ( imgui mode of the injector )
 - dump games + the game pdb ( some games dont work )
 - you can use detours + minhook
-- decrypt warzone offsets
-- dump offsets for all titles + auto sig maker
+- decrypt offsets ( rainbow 6, warzone )
+- dump offsets for all titles
 - choose what injection format you want x86 / x64
 - IAT dumper
-- Anti-Cheat Emulator ( allowing you to do anything you want practically )
+- cheat engine support + other debuggers
+- offset dumper
+- Dump EAC + BE
+- edit packets / spoof packets
+- inject without any detections
+- Anti-Cheat Emulator ( allowing you to do play without running anti-cheat )
+- have a full private source code ( fully undetected + Secure source code )
 
 ## how to find my games window class ?
 - if you have visual studio downloaded make sure you have c++ installed

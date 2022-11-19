@@ -1,7 +1,6 @@
 # Kernel cheat injector
 Inject your internal dlls with this please read before using for your safety as this is public and I am not responsible for any bans you may face.
 # if you are interested in private source add discord : skeng#9524
-- tested on windows 10 1902
 
 
 # active updates + changes to keep this undetected and safe to use !
@@ -24,7 +23,6 @@ be kind and leave a star
 - launch your game ( must be on the same drive as injector )
 - input the window class name of the process you are wanting to inject into 
 - rwx will exploit the games imports and then proceed  to inject into the games window hook
-- 
 
 # some window class names examples
 UnrealWindow - Fortnite, Valorant , Splitgate 
@@ -36,6 +34,8 @@ Respawn001 - Apex legends
 ## working anti-cheats that injector supports
 * Vanguard 🔵
 * Easy Anti Cheat🔵
+# Easy Anti Cheat FREE Version 🔵
+# EAC EOS 🔵
 * BattlEye Anti Cheat🔵
 * FACEIT 🔵
 * Valve Anti-Cheat🔵
@@ -59,8 +59,6 @@ because i dont agree with the fact of many people skidding on developers work in
 - UI Mode ( imgui mode of the injector )
 - dump games + the game pdb ( some games dont work )
 - you can use detours + minhook
-- decrypt offsets ( rainbow 6, warzone )
-- dump offsets for all titles
 - choose what injection format you want x86 / x64
 - IAT dumper
 - cheat engine support + other debuggers
@@ -92,24 +90,3 @@ or if you are wanting to purchase other sources or want something developed let 
 # added test.dll for testing if injector works :)
 
 
-donate btc : 1QDGQANKZenPYkcjq68N79Rn2XshU9YNhb
-
-
-
-# updated 
- - supports x64 / x86
- - widows 11 support
- - new injection methods 
-
-# updated 18/05/2022
-- changed driver issues 
-  - fixed bsod issues when anticheat loads 
-  - fixed hosting server not streaming bytes
-  - bypass guarded regions
-  - dll size can now be higher than 1mb 
-
-
-# changes
- - 20/04/2022
-   - WindowsHook -> added ( how to use ? | enter your dll filepath + the name of the dll | then simply write what you want the output name to be ( example "cheat" )
-     what does it do ? | it converts your dll into bytes allowing the injector to read the dll bytes and inject them into your targeted game.

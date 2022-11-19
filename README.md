@@ -34,8 +34,8 @@ Respawn001 - Apex legends
 ## working anti-cheats that injector supports
 * Vanguard 🔵
 * Easy Anti Cheat🔵
-# Easy Anti Cheat FREE Version 🔵
-# EAC EOS 🔵
+* Easy Anti Cheat FREE Version 🔵
+* EAC EOS 🔵
 * BattlEye Anti Cheat🔵
 * FACEIT 🔵
 * Valve Anti-Cheat🔵

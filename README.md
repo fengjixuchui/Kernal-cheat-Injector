@@ -16,13 +16,13 @@ be kind and leave a star
 
 
 # how to use ?
-- run v2 injector ( wait around 15-20 seconds if black screen shows this is due to the software trying to find vulnrable modules to inject to on your pc )
+- run kernel injector ( wait around 15-20 seconds if black screen shows this is due to the software trying to find vulnrable modules to inject to on your pc )
 - make sure your dll is in the same folder as injector
 - run injector before opening game ( if you face vuln error disable antivirus and firewall )
 - rename your dll to test.dll
 - launch your game ( must be on the same drive as injector )
 - input the window class name of the process you are wanting to inject into 
-- rwx will exploit the games imports and then proceed  to inject into the games window hook
+- bypass will exploit the game and then proceed  to inject into the game
 
 # some window class names examples
 UnrealWindow - Fortnite, Valorant , Splitgate 

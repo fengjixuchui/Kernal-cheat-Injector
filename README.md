@@ -32,12 +32,12 @@ Respawn001 - Apex legends
 
 # how status works 🔵 = undetected | 🔴 = detected
 ## working anti-cheats that injector supports
-* Vanguard 🔵
+* Vanguard ( removed public support ) 
 * Easy Anti Cheat🔵
 * Easy Anti Cheat FREE Version 🔵
 * EAC EOS 🔵
 * BattlEye Anti Cheat🔵
-* FACEIT 🔵
+* FACEIT ( public version no longer supports)
 * Valve Anti-Cheat🔵
 * PunkBuster🔵
 * NProtect GameGuard🔵
@@ -62,11 +62,11 @@ because i dont agree with the fact of many people skidding on developers work in
 - choose what injection format you want x86 / x64
 - IAT dumper
 - cheat engine support + other debuggers
-- offset dumper
+- offset dumper ( UnrealEngine only )
 - Dump EAC + BE
 - edit packets / spoof packets
-- inject without any detections
-- Anti-Cheat Emulator ( allowing you to do play without running anti-cheat )
+- inject without any detections / trace
+- Anti-Cheat Emulator ( allowing you to play without running anti-cheat )
 - have a full private source code ( fully undetected + Secure source code )
 
 ## how to find my games window class ?

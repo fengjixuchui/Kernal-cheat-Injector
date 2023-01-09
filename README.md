@@ -1,6 +1,6 @@
 # Kernel cheat injector
 Inject your internal dlls with this please read before using for your safety as this is public and I am not responsible for any bans you may face.
-# purchase private source code non public add discord : skeng#9524
+# selling private source code add discord : skeng#9524
 
 
 # active updates + changes to keep this undetected and safe to use !
@@ -34,7 +34,6 @@ Respawn001 - Apex legends
 ## working anti-cheats that injector supports
 * Vanguard ( removed public support ) 
 * Easy Anti Cheat🔵
-* Easy Anti Cheat FREE Version 🔵
 * EAC EOS 🔵
 * BattlEye Anti Cheat🔵
 * FACEIT ( public version no longer supports)
@@ -44,7 +43,7 @@ Respawn001 - Apex legends
 * Ricoche🔵
 
 
-# windows versions from 1909 / 20h2
+# windows versions from 1903 / 20h2 ( private supports all )
 
 # little insight on the release
 i thought not many people release working injectors these days that can actually inject past EAC and other anti-cheats i want to be able to provide a working injector for upcoming cheat developers or just individual people who dont understand code and want to cheat on a anti-cheat protected game.

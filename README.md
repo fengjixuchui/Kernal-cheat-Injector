@@ -32,11 +32,11 @@ Respawn001 - Apex legends
 
 # how status works 🔵 = undetected | 🔴 = detected
 ## working anti-cheats that injector supports
-* Vanguard ( removed public support ) 
+* Vanguard ( removed public support only for private version ) 
 * Easy Anti Cheat🔵
 * EAC EOS 🔵
 * BattlEye Anti Cheat🔵
-* FACEIT ( public version no longer supports)
+* FACEIT ( only for private version )
 * Valve Anti-Cheat🔵
 * PunkBuster🔵
 * NProtect GameGuard🔵
@@ -56,16 +56,9 @@ because i dont agree with the fact of many people skidding on developers work in
 - the source code is not public version it will be a completely undetected injector + driver along with a custom mapper allowing you to bypass vangaurd + faceit blocking methods 
 
 - UI Mode ( imgui mode of the injector )
-- dump games + the game pdb ( some games dont work )
-- you can use detours + minhook
-- choose what injection format you want x86 / x64
-- IAT dumper
 - cheat engine support + other debuggers
 - offset dumper ( UnrealEngine only )
-- Dump EAC + BE
-- edit packets / spoof packets
 - inject without any detections / trace
-- Anti-Cheat Emulator ( allowing you to play without running anti-cheat )
 - have a full private source code ( fully undetected + Secure source code )
 
 ## how to find my games window class ?
@@ -82,7 +75,7 @@ because i dont agree with the fact of many people skidding on developers work in
 - right click on the process that you are wanting to inject into 
 <img src="https://i.ibb.co/BL79h5h/tempsnip.png">
 
-# To buy the source for rwx injector source code contact me via discord: skeng#9524
+# To buy the source for kernel injector source code contact me via discord: skeng#9524
 or if you are wanting to purchase other sources or want something developed let me know
 
 

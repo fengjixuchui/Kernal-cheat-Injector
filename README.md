@@ -1,11 +1,11 @@
 # Kernel cheat injector
 Inject your internal dlls with this please read before using for your safety as this is public and I am not responsible for any bans you may face.
-# selling private source code add discord : skeng#9524
+# im selling the private source code add discord : skeng#9524
 
 
 # active updates + changes to keep this undetected and safe to use !
 ## - Make Sure you read how to use and the rest of the information about this.  
-be kind and leave a star
+be kind and leave a star ( 200 stars for new injector + method )
 
 <img src="https://i.ibb.co/Cngyv9n/Capture.png">
 
@@ -23,6 +23,15 @@ be kind and leave a star
 - launch your game ( must be on the same drive as injector )
 - input the window class name of the process you are wanting to inject into 
 - bypass will exploit the game and then proceed  to inject into the game
+
+
+# facing issues on Windows 11 ?
+- Run command prompt as Administrator and type in these.
+- reg add HKLM\SYSTEM\CurrentControlSet\CI\Config /v "VulnerableDriverBlocklistEnable" /t REG_DWORD /d 0 /f
+- reg add HKLM\SYSTEM\CurrentControlSet\Control\DeviceGuard\Scenarios\HypervisorEnforcedCodeIntegrity/v "Enabled" /t REG_DWORD /d 0 /f
+
+To apply the changes, you will need to reboot the system.
+
 
 # some window class names examples
 UnrealWindow - Fortnite, Valorant , Splitgate 
@@ -60,6 +69,8 @@ because i dont agree with the fact of many people skidding on developers work in
 - offset dumper ( UnrealEngine only )
 - inject without any detections / trace
 - have a full private source code ( fully undetected + Secure source code )
+- Mono injection
+- BE , EAC , FACEIT , VANGUARD Bypass
 
 ## how to find my games window class ?
 - if you have visual studio downloaded make sure you have c++ installed

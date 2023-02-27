@@ -1,6 +1,6 @@
 # Kernel cheat injector
 Inject your internal dlls with this please read before using for your safety as this is public and I am not responsible for any bans you may face.
-# im selling the private source code add discord : skeng#9524
+# im selling the private source code add discord : Skeng#6969
 
 
 # active updates + changes to keep this undetected and safe to use !

@@ -86,7 +86,7 @@ because i dont agree with the fact of many people skidding on developers work in
 - right click on the process that you are wanting to inject into 
 <img src="https://i.ibb.co/BL79h5h/tempsnip.png">
 
-# To buy the source for kernel injector source code contact me via discord: skeng#9524
+# To buy the source for kernel injector source code contact me via discord: Skeng#6969
 or if you are wanting to purchase other sources or want something developed let me know
 
 
